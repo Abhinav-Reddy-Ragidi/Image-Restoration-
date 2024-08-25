@@ -1,4 +1,4 @@
-#Image Restoration Using Generative Adversarial Networks (GAN)
+<h1>Image Restoration Using Generative Adversarial Networks (GAN)</h1>
 <h2>Overview</h2>
 This project implements an image restoration pipeline using Generative Adversarial Networks (GAN). The goal is to restore low-quality or degraded images to their original, high-quality state. The project includes a custom-designed architecture for both the generator and discriminator models, which are the core components of the GAN.
 
